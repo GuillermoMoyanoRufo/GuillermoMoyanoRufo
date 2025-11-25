@@ -22,14 +22,14 @@
 - 01_ANALISIS_DE_MERCADO_INMOBILIARIO
 
 ## 📚 Education
-- Higher Technical Diploma in Marketing Advanced Vocational Training, Albacete
-- Escuela de Organización Industrial (EOI) Specialist in E-commerce, Marketing
+- **Higher Technical Diploma in Marketing Advanced Vocational Training** at Federico García Lorca Secondary School
+- **Specialist in E-commerce** at EOI
 - **Data Science Professional Certificate** at Coursera
 - **Data Science 4 Business** Program Advanced Business Analytics & Strategy
 
 ## 📫 Contact
-**- Email:** guillermo.moyano93@gmail.com
-**- Linkedin:** https://www.linkedin.com/in/guillermo-moyano-rufo/ 
+- **Email:** guillermo.moyano93@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/guillermo-moyano-rufo/ 
 
 <!--
 **GuillermoMoyanoRufo/GuillermoMoyanoRufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
