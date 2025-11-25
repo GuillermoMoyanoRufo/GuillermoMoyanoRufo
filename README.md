@@ -1,13 +1,19 @@
 ## Hi there 👋 I'm Guillermo Moyano Rufo!
 
 
-## 🛠 Skills
-
 ##  Libraries & Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ##  Experience
 
 ## 📈  Projects
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
+- 01_ANALISIS_DE_MERCADO_INMOBILIARIO
 
 ## 📚 Education
 - Higher Technical Diploma in Marketing Advanced Vocational Training, Albacete
