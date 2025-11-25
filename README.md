@@ -1,5 +1,17 @@
 ## Hi there 👋 I'm Guillermo Moyano Rufo!
 
+
+## 🛠 Skills
+
+## 🛠 Libraries & Tools:
+
+## 🛠 Projects
+
+## 🛠 Education
+
+## 🛠 Contact
+
+
 <!--
 **GuillermoMoyanoRufo/GuillermoMoyanoRufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
