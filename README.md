@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Guillermo Moyano Rufo!
+Data Scientist with proven experience leveraging Python, SQL, and core analytical frameworks (Pandas, Scikit-learn, Seaborn) to drive strategic business decisions.
 
+Specialized in predictive modeling, segmentation analysis, and transforming complex data challenges into actionable solutions for business optimization. Highly focused on maximizing the Return on Investment (ROI) and operational efficiency across various industry sectors.
 
 ##  Libraries & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -29,7 +31,9 @@
 
 ## 📫 Contact
 - **Email:** guillermo.moyano93@gmail.com
-- **Linkedin:** https://www.linkedin.com/in/guillermo-moyano-rufo/ 
+- **Linkedin:** https://www.linkedin.com/in/guillermo-moyano-rufo/
+
+**Ready to collaborate!** Feel free to connect and explore my work on advanced analytics and MLOps deployments. Let's discuss new ideas for the industry.
 
 <!--
 **GuillermoMoyanoRufo/GuillermoMoyanoRufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
