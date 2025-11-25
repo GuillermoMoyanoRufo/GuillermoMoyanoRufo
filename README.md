@@ -24,8 +24,8 @@
 ## 📚 Education
 - Higher Technical Diploma in Marketing Advanced Vocational Training, Albacete
 - Escuela de Organización Industrial (EOI) Specialist in E-commerce, Marketing
-- Coursera IBM Data Science Professional Certificate
-- Data Science 4 Business Program Advanced Business Analytics & Strategy
+- **Data Science Professional Certificate** at Coursera
+- **Data Science 4 Business** Program Advanced Business Analytics & Strategy
 
 ## 📫 Contact
 **- Email:** guillermo.moyano93@gmail.com
