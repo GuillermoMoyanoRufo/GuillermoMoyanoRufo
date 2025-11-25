@@ -28,8 +28,8 @@
 - Data Science 4 Business Program Advanced Business Analytics & Strategy
 
 ## 📫 Contact
-- Email: guillermo.moyano93@gmail.com
-- Linkedin: https://www.linkedin.com/in/guillermo-moyano-rufo/ 
+**- Email:** guillermo.moyano93@gmail.com
+**- Linkedin:** https://www.linkedin.com/in/guillermo-moyano-rufo/ 
 
 <!--
 **GuillermoMoyanoRufo/GuillermoMoyanoRufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
