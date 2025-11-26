@@ -15,9 +15,9 @@ Specialized in predictive modeling, segmentation analysis, and transforming comp
 ##  Experience
 
 ## 📈  Projects
-* [01. ANÁLISIS DE MERCADO INMOBILIARIO](https://github.com/GuillermoMoyanoRufo/01_ANALISIS_DE_MERCADO_INMOBILIARIO)
-* [02. PLANTAS DE GENERACIÓN SOLAR](https://github.com/GuillermoMoyanoRufo/02_PLANTAS-DE-GENERACION-SOLAR)
-* [03. PREDICCIÓN DE VENTAS DE ECOMMERCE](https://github.com/GuillermoMoyanoRufo/Forecasting_data_science_IA)
+* [01. REAL ESTATE MARKET ANALYSIS](https://github.com/GuillermoMoyanoRufo/01_ANALISIS_DE_MERCADO_INMOBILIARIO)
+* [02. SOLAR POWER PLANTS](https://github.com/GuillermoMoyanoRufo/02_PLANTAS-DE-GENERACION-SOLAR)
+* [03. ECOMMERCE SALES FORECASTING](https://github.com/GuillermoMoyanoRufo/Forecasting_data_science_IA)
 
 ## 📚 Education
 - **Higher Technical Diploma in Marketing Advanced Vocational Training** at Federico García Lorca Secondary School
