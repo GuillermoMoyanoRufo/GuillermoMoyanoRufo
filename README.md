@@ -18,7 +18,7 @@ Specialized in predictive modeling, segmentation analysis, and transforming comp
 * Designed and implemented solutions for **process optimization**.
 * Monitoring of **KPIs** (Key Performance Indicators) and performance diagnostics.
 
-### Autonomous at Seolevel (3 years): Freelance Analytical Consultant
+### Seolevel (3 years): Freelance Analytical Consultant
 
 * Business consulting focused on the **impact of data (ROI)**.
 * Design and implementation of **A/B testing** strategies.
