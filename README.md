@@ -12,7 +12,22 @@ Specialized in predictive modeling, segmentation analysis, and transforming comp
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=flat&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1F77B4?style=flat&logo=seaborn&logoColor=white)
 
-##  Experience
+##  Professional Experience
+### Unancor (1 year): Strategic Analytics & Projects
+
+* Designed and implemented solutions for **process optimization**.
+* Monitoring of **KPIs** (Key Performance Indicators) and performance diagnostics.
+
+### Autonomous at Seolevel (3 years): Freelance Analytical Consultant
+
+* Business consulting focused on the **impact of data (ROI)**.
+* Design and implementation of **A/B testing** strategies.
+
+### Veridas (6 months): Digital Analytics Internship
+
+* Analysis of web traffic, conversion patterns, and **audience segmentation**.
+* Measurement and optimization of campaigns to **improve conversion rates**.
+
 
 ## 📈  Projects
 * [01. REAL ESTATE MARKET ANALYSIS](https://github.com/GuillermoMoyanoRufo/01_ANALISIS_DE_MERCADO_INMOBILIARIO)
