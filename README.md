@@ -33,8 +33,6 @@ Specialized in predictive modeling, segmentation analysis, and transforming comp
 * [01. SPACE X LANDING PREDICTION](https://github.com/GuillermoMoyanoRufo/spacex-landing-prediction)
 * [02. ECOMMERCE SALES FORECASTING](https://github.com/GuillermoMoyanoRufo/Forecasting_data_science_IA)
 * [03. ANALISIS_DE_MERCADO_INMOBILIARIO](https://github.com/GuillermoMoyanoRufo/01_ANALISIS_DE_MERCADO_INMOBILIARIO)
-* [04. SOLAR POWER PLANTS](https://github.com/GuillermoMoyanoRufo/02_PLANTAS-DE-GENERACION-SOLAR)
-* [05. CRO ECOMMERCE](https://github.com/GuillermoMoyanoRufo/04_CRO_ECOMMERCE)
 
 ## 📚 Education
 - **Higher Technical Diploma in Marketing Advanced Vocational Training** at Federico García Lorca Secondary School
